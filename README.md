@@ -6,9 +6,9 @@
 
 | | |
 |---|---|
-| **Demo (GitHub Pages)** | `https://<username>.github.io/<repo-name>/` *(ใส่ลิงก์ของคุณ)* |
+| **Demo (GitHub Pages)** | `https://<username>.github.io/<repo-name>/`  |
 | **เครือข่าย** | Ethereum Hoodi Testnet (chainId 560048) |
-| **Contract Address** | `0x...` *(ใส่ address หลัง Deploy)* |
+| **Contract Address** | `0x63A164562Dd12902BD6aFF2c8d4427dEf022fF39`  |
 | **Block Explorer** | https://hoodi.etherscan.io |
 
 > ต้องใช้ส่วนขยาย **MetaMask** และมี ETH ทดสอบบน Hoodi สำหรับค่าแก๊ส (ดูข้อมูลอย่างเดียวได้โดยไม่ต้องเชื่อมกระเป๋า)
