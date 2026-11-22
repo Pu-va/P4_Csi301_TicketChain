@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Demo (GitHub Pages)** | `https://<username>.github.io/<repo-name>/`  |
+| **Demo (GitHub Pages)** | `https://pu-va.github.io/P4_Csi301_TicketChain/`  |
 | **เครือข่าย** | Ethereum Hoodi Testnet (chainId 560048) |
 | **Contract Address** | `0x63A164562Dd12902BD6aFF2c8d4427dEf022fF39`  |
 | **Block Explorer** | https://hoodi.etherscan.io |
